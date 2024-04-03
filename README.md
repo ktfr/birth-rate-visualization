@@ -8,3 +8,4 @@ How to use:
 4. Continue process until all data points indicated in step 1 is complete. The program then asks the user to enter two years they want to use to interpolate as integers.
 5. Select start and end date for data interpolation. If data is not in range, the program will return an error.
 
+Note turtlesetup.py code provided by instructor.
