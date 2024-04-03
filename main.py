@@ -1,3 +1,5 @@
+# By Kai Ferrer
+
 from turtlesetup_plot import *
 
 #Asks the user how many data points they want to enter
